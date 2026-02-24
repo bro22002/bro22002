@@ -87,3 +87,6 @@ I believe that great software is born from collaboration and clarity. When I'm n
 <div align="center">
   <sub><i>Fun Fact: I enjoy implementing interactive "Easter eggs" in my work—try the Konami Code when you visit my portfolio! ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️BA</i></sub>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
