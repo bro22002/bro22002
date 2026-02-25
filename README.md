@@ -77,7 +77,9 @@ I believe that great software is born from collaboration and clarity. When I'm n
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
