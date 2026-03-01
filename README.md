@@ -78,8 +78,8 @@ I believe that great software is born from collaboration and clarity. When I'm n
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- https://github.com/piyushsuthar/github-readme-quotes -->
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
