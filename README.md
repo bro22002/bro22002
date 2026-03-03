@@ -72,9 +72,9 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ### ✍️ Random Dev Quote
