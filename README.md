@@ -41,8 +41,9 @@ I believe that great software is born from collaboration and clarity. When I'm n
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bro22002" />
 </p>
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bro22002)
 ---
 
 ### Connect
