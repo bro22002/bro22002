@@ -1,6 +1,10 @@
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <div align="center">
-  <h1>Hi there, I'm a Fullstack Software Engineer 👋</h1>
+  <h1>Stephen Richard Brown</h1>
+  <h2>Hi there, I'm a Fullstack Software Engineer 👋</h2>
   <h3>I Don't Just Write Code. I Engineer Solutions.</h3>
 </div>
 
