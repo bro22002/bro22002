@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Stephen Richard Brown</h1>
-  <h2>Hi there, I'm a Fullstack Software Engineer 👋</h2>
+  <h2>Hi there, I'm a Fullstack Software Engineer 👋🏾</h2>
   <h3>I Don't Just Write Code. I Engineer Solutions.</h3>
 </div>
 
@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bro22002&label=Profile%20views&color=0e75b6&style=flat" alt="br0220022" /> </p>
 
 
-### 👨‍💻 About Me
+### 👨🏾‍💻 About Me
 
 I've always been fascinated by how things work—not just the surface mechanics, but the intricate systems beneath. My journey into software engineering wasn't driven by a desire to write code, but by a passion for solving complex problems. I see every bug as a puzzle and every feature as an opportunity to improve a user's life.
 
@@ -83,7 +83,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍🏾 Random Dev Quote
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
