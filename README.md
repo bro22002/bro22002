@@ -40,28 +40,24 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ---
 
-### GitHub stats
+### 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</div>
+<!-- ### GitHub stats -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bro22002" />
-</p>
+</p> -->
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bro22002) -->
 
 ---
-
-### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-
-
-
-
-
 
 ### 🚀 Featured Work & Case Studies
 
@@ -74,15 +70,6 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</div>
-
 ### ✍🏾 Random Dev Quote
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -91,12 +78,12 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ### 📫 Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bro22002)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bstephenrichard26@gmail.com)
 
 <div align="center">
-  <sub><i>Fun Fact: I enjoy implementing interactive "Easter eggs" in my work—try the Konami Code when you visit my portfolio! ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️BA</i></sub>
+  <sub><i>Fun Fact: I enjoy implementing interactive "Easter eggs" in my work—try the Konami Code when you visit my portfolio! ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️</i></sub>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
