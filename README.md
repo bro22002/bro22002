@@ -26,26 +26,43 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript, TypeScript, HTML/CSS, Python, SQL
-  
-- **Frontend:** React, Next.js, Tailwind CSS
-  
-- **Backend:** Node.js, Python, PostgreSQL, Prisma
-  
-- **Database:** PostgreSQL, MongoDB, Redis
-  
-- **Architecture:** Cloud Architecture, CI/CD, Docker
-  
-- **AI:** OpenAI API · Gemini · Vector DBs · Prompt engineering  
+<!-- - **Languages:** -->
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript" title="Typescript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript" title="Javascript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="Html5" title="Html5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Css3" title="Css3" />        
+<!-- Frontend -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Nextjs" title="Nextjs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwindcss" title="Tailwindcss" />
+<!-- Backend -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Nodejs" title="Nodejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql" title="Postgresql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" title="Prisma" />
+  <!-- Database -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="Dynamodb" title="Dynamodb" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Mongodb" title="Mongodb" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="Mysql" title="Mysql" />
+  <!-- Architecture -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="Amazonwebservices" title="Amazonwebservices" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+  <!-- Tools -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="Vscode" title="Vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  </div>
+<!-- - **AI:** OpenAI API · Gemini · Vector DBs · Prompt engineering -->
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 <!-- ### GitHub stats -->
@@ -61,7 +78,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ### 🚀 Featured Work & Case Studies
 
-**[Project Name Here]**
+**Comdevnet.org**
 
 - **The Challenge:** Users were experiencing 5s+ load times on legacy dashboards.
 - **The Solution:** Re-architected the state management system and implemented server-side caching.
@@ -81,6 +98,9 @@ I believe that great software is born from collaboration and clarity. When I'm n
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bro22002)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bstephenrichard26@gmail.com)
+
+<!-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
+<!-- [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 
 <div align="center">
   <sub><i>Fun Fact: I enjoy implementing interactive "Easter eggs" in my work—try the Konami Code when you visit my portfolio! ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️</i></sub>
