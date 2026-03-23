@@ -102,6 +102,15 @@ I believe that great software is born from collaboration and clarity. When I'm n
 <!-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 <!-- [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bro22002/bro22002/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bro22002/bro22002/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bro22002/bro22002/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <div align="center">
   <sub><i>Fun Fact: I enjoy implementing interactive "Easter eggs" in my work—try the Konami Code when you visit my portfolio! ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️</i></sub>
 </div>
