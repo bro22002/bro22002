@@ -54,6 +54,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
   </div>
 <!-- - **AI:** OpenAI API · Gemini · Vector DBs · Prompt engineering -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
 
 ---
 
