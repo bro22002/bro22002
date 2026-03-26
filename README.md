@@ -32,7 +32,20 @@ I believe that great software is born from collaboration and clarity. When I'm n
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript" title="Javascript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="Html5" title="Html5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Css3" title="Css3" />        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Css3" title="Css3" /> 
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <picture>
+      <!-- Show dark theme icons when GitHub is in dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript,js,python,html&theme=dark">
+      <!-- Show light theme icons when GitHub is in light mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=typescript,js,python,html&theme=light">
+      <!-- Fallback image -->
+      <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html" alt="My Skills" />
+    </picture>
+  </a>
+</p>
+  
 <!-- Frontend -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
