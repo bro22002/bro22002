@@ -27,22 +27,22 @@ I believe that great software is born from collaboration and clarity. When I'm n
 ### 🛠️ Tech Stack & Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> -->
 #### **Languages:**
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=typescript,js,python,cs)](https://skillicons.dev)
 
 #### **Frontend:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,tailwindcss,react)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,tailwindcss,react)](https://skillicons.dev)
 
 #### **Backend:**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php)](https://skillicons.dev)
 
 #### **Database:**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,firebase,supabase)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,firebase,supabase)](https://skillicons.dev)
 
 #### **Architecture:**
-[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+[![Architecture](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
 
 #### **Tools:**
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux,github,jest,raspberrypi,npm,pnpm,)](https://skillicons.dev)
 
 ---
 
