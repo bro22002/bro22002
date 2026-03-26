@@ -24,50 +24,25 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> -->
+#### **Languages:**
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,python)](https://skillicons.dev)
 
-<!-- - **Languages:** -->
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript" title="Typescript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript" title="Javascript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="Html5" title="Html5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Css3" title="Css3" /> 
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <picture>
-      <!-- Show dark theme icons when GitHub is in dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript,js,python,html&theme=dark">
-      <!-- Show light theme icons when GitHub is in light mode -->
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=typescript,js,python,html&theme=light">
-      <!-- Fallback image -->
-      <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html" alt="My Skills" />
-    </picture>
-  </a>
-</p>
-  
-<!-- Frontend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Nextjs" title="Nextjs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwindcss" title="Tailwindcss" />
-<!-- Backend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Nodejs" title="Nodejs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql" title="Postgresql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" title="Prisma" />
-  <!-- Database -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="Dynamodb" title="Dynamodb" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Mongodb" title="Mongodb" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="Mysql" title="Mysql" />
-  <!-- Architecture -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="Amazonwebservices" title="Amazonwebservices" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <!-- Tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="Vscode" title="Vscode" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  </div>
-<!-- - **AI:** OpenAI API · Gemini · Vector DBs · Prompt engineering -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
+#### **Frontend:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,tailwindcss,react)](https://skillicons.dev)
+
+#### **Backend:**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php)](https://skillicons.dev)
+
+#### **Database:**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,firebase)](https://skillicons.dev)
+
+#### **Architecture:**
+[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+
+#### **Tools:**
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux)](https://skillicons.dev)
 
 ---
 
@@ -87,6 +62,12 @@ I believe that great software is born from collaboration and clarity. When I'm n
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bro22002" />
 </p> -->
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bro22002) -->
+
+### 🏆 Trophies
+
+<!-- <div align="left">
+<img src="https://github-trophies.vercel.app/?username=bro22002&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
+</div> -->
 
 ---
 
