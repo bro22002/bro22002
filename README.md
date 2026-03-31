@@ -54,14 +54,8 @@ I believe that great software is born from collaboration and clarity. When I'm n
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
-<!-- ### GitHub stats -->
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bro22002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bro22002" />
-</p> -->
-<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bro22002) -->
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=c311a51c-8631-4d99-9074-6e1a418730e2&theme=tokyonight) -->
 
 ### 🏆 Trophies
 
@@ -73,7 +67,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ### 🚀 Featured Work & Case Studies
 
-**Comdevnet.org**
+**Coming Soon**
 
 - **The Challenge:** Users were experiencing 5s+ load times on legacy dashboards.
 - **The Solution:** Re-architected the state management system and implemented server-side caching.
