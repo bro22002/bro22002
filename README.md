@@ -11,7 +11,7 @@
 ---
 
 <!-- Profile View -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bro22002&label=Profile%20views&color=0e75b6&style=flat" alt="br0220022" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bro22002&label=Profile%20views&color=0e75b6&style=flat" alt="bro220022" /> </p>
 
 
 ### 👨🏾‍💻 About Me
