@@ -53,6 +53,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bro22002&theme=tokyonight" height="150" alt="GitHub Streak" />&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bro22002&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=c311a51c-8631-4d99-9074-6e1a418730e2&theme=tokyonight" height="150" alt="Wakatime" /> -->
 </div>
 
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=c311a51c-8631-4d99-9074-6e1a418730e2&theme=tokyonight) -->
