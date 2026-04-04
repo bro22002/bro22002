@@ -36,7 +36,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php)](https://skillicons.dev)
 
 #### **Database:**
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,firebase,supabase)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,firebase,supabase,ssms)](https://skillicons.dev)
 
 #### **Architecture:**
 [![Architecture](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
