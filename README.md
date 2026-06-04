@@ -42,7 +42,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 [![Architecture](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
 
 #### **Tools:**
-[![Tools](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux,github,jest,raspberrypi,npm,pnpm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux,github,jest,raspberrypi,npm,pnpm,dotnet)](https://skillicons.dev)
 
 ---
 
