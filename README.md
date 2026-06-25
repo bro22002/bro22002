@@ -68,6 +68,14 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ### 🚀 Featured Work & Case Studies
 
+**Stock Flow**
+
+- **The Challenge:** Presenting and managing inventory-related data with a clean, responsive interface while keeping the experience fast and maintainable.
+- **The Solution:** Combined a server-side C# backend with a polished HTML/CSS front end and lightweight JavaScript interactions.
+- **Key Achievement:** Delivered a cohesive application experience across backend and UI layers.
+- **Tech Stack:** C#, Blazor, HTML, CSS, JavaScript
+
+
 **Coming Soon**
 
 - **The Challenge:** Users were experiencing 5s+ load times on legacy dashboards.
