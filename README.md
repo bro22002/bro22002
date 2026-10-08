@@ -30,7 +30,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 [![Languages](https://skillicons.dev/icons?i=typescript,js,python,cs)](https://skillicons.dev)
 
 #### **Frontend:**
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,tailwindcss,react)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,tailwindcss,react,codepen&perline=6)](https://skillicons.dev)
 
 #### **Backend:**
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php)](https://skillicons.dev)
@@ -42,7 +42,8 @@ I believe that great software is born from collaboration and clarity. When I'm n
 [![Architecture](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
 
 #### **Tools:**
-[![Tools](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux,github,jest,raspberrypi,npm,pnpm,dotnet,githubactions)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,postman,vercel,linux,github,jest,raspberrypi,npm,pnpm,dotnet,githubactions&perline=6)](https://skillicons.dev)
+
 
 ---
 
