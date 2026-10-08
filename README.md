@@ -24,7 +24,7 @@ I believe that great software is born from collaboration and clarity. When I'm n
 
 ---
 
-### 🛠️ Tech Stack & Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+### 🛠️ Tech Stack & Skills <span><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" align="center"></span>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> -->
 #### **Languages:**
 [![Languages](https://skillicons.dev/icons?i=typescript,js,python,cs)](https://skillicons.dev)
